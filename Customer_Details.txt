@@ -1,0 +1,4 @@
+cashier 1:pabasara de 3 ,soma ranjani 9 ,
+cashier 2:chethana de 5 ,sanath kumara 9 ,
+cashier 3:sarada poornima 9 ,
+50
